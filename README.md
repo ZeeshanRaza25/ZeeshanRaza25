@@ -36,8 +36,7 @@ Here are some of the technologies I work with:
 
 - [LinkedIn](https://www.linkedin.com/in/zeeshan-raza)
 - [Twitter/X](https://twitter.com/ZEESHAN64641810)
-- [Personal Website](https://your-website.com)
-
+- 
 ## Support
 
 If you like my work, you can buy me a coffee!
