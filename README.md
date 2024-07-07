@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 - 🌱 I’m currently learning NextJS along with Postgresql.
 - 💬 Ask me about MERN stack, JavaScript, or anything tech-related.
-- 📫 How to reach me: zeeshanraza252627@gmail.com(mailto:zeeshanraza252627@gmail.com)
+- 📫 How to reach me: [zeeshanraza252627@gmail.com](mailto:zeeshanraza252627@gmail.com)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I’m constantly learning new things and eager to deliver them to others.
 
