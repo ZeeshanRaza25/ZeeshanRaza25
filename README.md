@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 ## About Me
 
-- 🌱 I’m currently learning NextJS along with Postgresql.
+- 🌱 I’m currently learning Agentic AI.
 - 💬 Ask me about MERN stack, JavaScript, or anything tech-related.
 - 📫 How to reach me: [zeeshanraza252627@gmail.com](mailto:zeeshanraza252627@gmail.com)
 - 😄 Pronouns: He/Him/His
