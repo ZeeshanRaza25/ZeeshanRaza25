@@ -2,7 +2,7 @@
 
 ### 🚀 MERN Stack Developer | Building Agentic AI Systems that Think & Act
 
-I’m a Full-Stack Developer with 3+ years of experience crafting scalable web applications using the MERN stack.  
+I’m a Full-Stack Developer with 4+ years of experience crafting scalable web applications using the MERN stack.  
 Currently, I’m diving deep into **Agentic AI, LangChain, and RAG systems** to build intelligent, autonomous products.
 
 ---
